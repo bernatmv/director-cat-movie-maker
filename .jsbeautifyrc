@@ -10,7 +10,6 @@
         "allowed_file_extensions": ["htm", "html", "xhtml", "shtml", "xml", "svg"],
         "brace_style": "collapse", // "expand", "end-expand", "none"
         "end_with_newline": false,
-        "indent_char": " ",
         "indent-with-tabs" : true,
         "indent_handlebars": false, // e.g. {{#foo}}, {{/foo}}
         "indent_inner_html": false,
